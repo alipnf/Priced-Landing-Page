@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    #5b41fb 0deg,
+    #4456f8 176.2500035762787deg,
+    #53acff 260.6249928474426deg,
+    #573dfb 360deg
+  );
+  height: 100vh;
+  backdrop-filter: blur(125px);
+}
