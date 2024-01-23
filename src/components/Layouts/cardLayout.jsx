@@ -2,7 +2,7 @@ import Card from "../Fragments/card";
 import Feature from "../Elements/feature";
 const CardLayout = () => {
   return (
-    <div className="mb-24 flex justify-between ">
+    <div className="mb-24 flex justify-between gap-8">
       <Card
         title="Basic"
         price="$5"
