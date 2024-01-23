@@ -11,7 +11,7 @@ body {
     #53acff 260.6249928474426deg,
     #573dfb 360deg
   );
-  height: 100vh;
+  height: 100%;
   backdrop-filter: blur(125px);
   font-family: "DM Sans", sans-serif;
 }
