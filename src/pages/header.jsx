@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <header className="container mx-auto">
       <Navbar></Navbar>
-      <div className="mt-20 flex flex-col items-center">
+      <div className="mt-[83px] flex flex-col items-center">
         <h1 className="w-[617px] text-center  text-[36px] font-bold text-white">
           <span className="underline">Secure and Reliable </span>Cloud Storage
           for Your Data
