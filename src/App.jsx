@@ -1,8 +1,11 @@
+import Header from "./pages/header";
+import Hero from "./pages/hero";
 function App() {
   return (
-    <h1 className="text-3xl font-bold text-purple-700 underline">
-      Hello world!
-    </h1>
+    <div className="px-36 pt-16">
+      <Header></Header>
+      <Hero></Hero>
+    </div>
   );
 }
 
