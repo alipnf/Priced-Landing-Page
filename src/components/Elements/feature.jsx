@@ -6,7 +6,7 @@ const Feature = ({ text, icon }) => {
 
   return (
     <div className="flex gap-2">
-      <img src={imagePath} alt={`${icon} icon`} />
+      <img className="w-6" src={imagePath} alt={`${icon} icon`} />
       <p>{text}</p>
     </div>
   );
