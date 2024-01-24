@@ -4,6 +4,8 @@ Belajar slicing menggunakan react
 
 https://codedesign.dev/challenge/priced
 
+\*Belum responsive
+
 ## Installation
 
 Install Priced-Landing-Page with npm
