@@ -25,6 +25,7 @@ const CardLayout = () => {
         title="Professional"
         price="$15"
         description="A comprehensive option for businesses with more advanced needs."
+        recomended={true}
       >
         <Feature text="100 GB storage" icon="check"></Feature>
         <Feature text="Advanced file collaboration" icon="check"></Feature>
